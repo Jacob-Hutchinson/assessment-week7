@@ -1,12 +1,12 @@
 
 step-1 table 
-|    append     |      insert   |
-|   --------    |     --------  |
-|   55.458 μs   | 22.25 μs      |  tinyArr
-|   102.042 μs  | 35.209 μs     |  smallArr
-|   108.25 μs   | 171.334 μs    |  MediumArr
-|   566.25 μs   | 8.955458 ms   |  largeArr
-|   1.681125 ms | 771.722416 ms |  extraLargeArr
+|    append     |      insert   |               |
+|   --------    |     --------  | -------       |
+|   55.458 μs   | 22.25 μs      |  tinyArr      |
+|   102.042 μs  | 35.209 μs     |  smallArr     |
+|   108.25 μs   | 171.334 μs    |  MediumArr    |
+|   566.25 μs   | 8.955458 ms   |  largeArr     |
+|   1.681125 ms | 771.722416 ms |  extraLargeArr|
 |               |               |
 |               |               |
 
